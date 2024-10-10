@@ -10,8 +10,9 @@ envío de sms y el monto total a facturar a cada uno. Además del ID, incluir el
 
 Repositorio de GitHub
 
-El código y los recursos para este proyecto se encuentran disponibles en GitHub en el siguiente link:
+El código y los recursos para este proyecto se encuentran disponibles en GitHub en el siguiente link de forma pública:
 
+https://github.com/JulinaPerozo/grandatatest
 
 ## Technical Requirements
 
@@ -93,5 +94,4 @@ Este último nos ayudará a controlar los executors desplegados y que no se cons
 
 
 Julina Perozo A.
-Data Engineer Sr# grandatatest
-# grandatatest
+Data Engineer Sr
