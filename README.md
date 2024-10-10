@@ -62,6 +62,10 @@ envío de sms y el monto total a facturar a cada uno. Además del ID, incluir el
 ## * Objetivo 3:
 3. Graficar un histograma de cantidad de llamadas que se realizan por hora del día.
 
+  <img width="970" alt="image" src="https://github.com/JulinaPerozo/grandatatest/blob/main/hist.png">
+
+
+
 ## * Obetivo 4:
 4. Respuestas a preguntas generales
 
